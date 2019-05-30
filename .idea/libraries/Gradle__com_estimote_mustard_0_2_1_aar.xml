@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.estimote:mustard:0.2.1@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/mustard-0.2.1.aar/137f9e3aabff66e4924e11ebefd889bd/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/mustard-0.2.1.aar/137f9e3aabff66e4924e11ebefd889bd/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.estimote/mustard/0.2.1/abe2f331ee876dce1d438e39363a6e165a2c75f9/mustard-0.2.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.wojtek.wawerek:skald-logcat-plugin:0.1.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/skald-logcat-plugin-0.1.0.aar/1372b7daaa6c1f459775507b4d640933/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/skald-logcat-plugin-0.1.0.aar/1372b7daaa6c1f459775507b4d640933/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.wojtek.wawerek/skald-logcat-plugin/0.1.0/5f0f2b84df0c78e01a4aabaf67074b0eff1d80f5/skald-logcat-plugin-0.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
